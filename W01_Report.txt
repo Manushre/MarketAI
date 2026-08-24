@@ -1,0 +1,53 @@
+========================================
+       W01 MARKETING ANALYSIS REPORT
+========================================
+
+CLIENT
+----------------------------------------
+Audit 360
+
+INDUSTRY
+----------------------------------------
+Audit and compliance
+
+IDEAL CUSTOMER PROFILE (ICP)
+----------------------------------------
+Industry: Audit and compliance
+Target Customer: Businesses that manage audits and compliance
+Main Problem: Manual audit processes and difficulty tracking compliance
+Decision Maker: Compliance Manager / Audit Manager / Business Head
+Business Need: Audit management software
+
+UNIQUE SELLING PROPOSITION (USP)
+----------------------------------------
+Audit 360 helps Businesses that manage audits and compliance solve Manual audit processes and difficulty tracking compliance through Audit management software.
+
+MARKETING RECOMMENDATION
+----------------------------------------
+Focus marketing on compliance leaders, audit managers and businesses preparing for audits.
+
+AWARENESS STAGES
+----------------------------------------
+Unaware: Customer does not yet recognize the business problem.
+Problem Aware: Customer understands the problem: Manual audit processes and difficulty tracking compliance.
+Solution Aware: Customer starts looking for solutions such as Audit management software.
+Product Aware: Customer evaluates Audit 360 and competing solutions.
+Most Aware: Customer is ready to contact Audit 360, request a demo or make a purchase.
+
+CUSTOMER JOURNEY
+----------------------------------------
+Awareness: Customer becomes aware of the business problem.
+Consideration: Customer researches solutions related to Audit management software.
+Evaluation: Customer compares Audit 360 with competitors.
+Decision: Customer contacts Audit 360 or requests a demo.
+Retention: Customer continues using the solution and may recommend it to others.
+
+MARKETING FUNNEL
+----------------------------------------
+TOFU - Awareness: Use educational blogs, social media content and problem-focused content.
+MOFU - Consideration: Use case studies, product information and comparison content about Audit management software.
+BOFU - Decision: Use demos, consultations, testimonials and strong calls-to-action to convert customers for Audit 360.
+
+AGENT SUMMARY
+----------------------------------------
+The marketing agent analyzed Audit 360. The target customer is Businesses that manage audits and compliance. The main business problem is Manual audit processes and difficulty tracking compliance. The recommended decision maker is Compliance Manager / Audit Manager / Business Head. The agent generated an ICP, USP, awareness stages, customer journey and marketing funnel.

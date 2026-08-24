@@ -1,0 +1,53 @@
+========================================
+       W01 MARKETING ANALYSIS REPORT
+========================================
+
+CLIENT
+----------------------------------------
+iTriangle
+
+INDUSTRY
+----------------------------------------
+Fleet management and IoT
+
+IDEAL CUSTOMER PROFILE (ICP)
+----------------------------------------
+Industry: Fleet management and IoT
+Target Customer: Businesses with vehicles and logistics operations
+Main Problem: Difficulty tracking vehicles, drivers and fleet operations
+Decision Maker: Fleet Manager / Operations Manager / Business Owner
+Business Need: Fleet tracking and management solutions
+
+UNIQUE SELLING PROPOSITION (USP)
+----------------------------------------
+iTriangle helps Businesses with vehicles and logistics operations solve Difficulty tracking vehicles, drivers and fleet operations through Fleet tracking and management solutions.
+
+MARKETING RECOMMENDATION
+----------------------------------------
+Focus marketing on fleet managers, logistics companies and businesses that operate multiple vehicles.
+
+AWARENESS STAGES
+----------------------------------------
+Unaware: Customer does not yet recognize the business problem.
+Problem Aware: Customer understands the problem: Difficulty tracking vehicles, drivers and fleet operations.
+Solution Aware: Customer starts looking for solutions such as Fleet tracking and management solutions.
+Product Aware: Customer evaluates iTriangle and competing solutions.
+Most Aware: Customer is ready to contact iTriangle, request a demo or make a purchase.
+
+CUSTOMER JOURNEY
+----------------------------------------
+Awareness: Customer becomes aware of the business problem.
+Consideration: Customer researches solutions related to Fleet tracking and management solutions.
+Evaluation: Customer compares iTriangle with competitors.
+Decision: Customer contacts iTriangle or requests a demo.
+Retention: Customer continues using the solution and may recommend it to others.
+
+MARKETING FUNNEL
+----------------------------------------
+TOFU - Awareness: Use educational blogs, social media content and problem-focused content.
+MOFU - Consideration: Use case studies, product information and comparison content about Fleet tracking and management solutions.
+BOFU - Decision: Use demos, consultations, testimonials and strong calls-to-action to convert customers for iTriangle.
+
+AGENT SUMMARY
+----------------------------------------
+The marketing agent analyzed iTriangle. The target customer is Businesses with vehicles and logistics operations. The main business problem is Difficulty tracking vehicles, drivers and fleet operations. The recommended decision maker is Fleet Manager / Operations Manager / Business Owner. The agent generated an ICP, USP, awareness stages, customer journey and marketing funnel.
