@@ -1,12 +1,11 @@
-import webbrowser
+from urllib.parse import quote
 
 
 def search_web(query):
 
-    # Create Google search URL
     google_url = (
         "https://www.google.com/search?q="
-        + query.replace(" ", "+")
+        + quote(query)
     )
 
     print("\n================================")
@@ -14,10 +13,6 @@ def search_web(query):
     print("================================")
     print("Searching for:", query)
 
-    # Open Google
-    webbrowser.open(google_url)
-
-    # Return search information to agent
     return {
         "query": query,
         "search_url": google_url
